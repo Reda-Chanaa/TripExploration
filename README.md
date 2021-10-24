@@ -1,10 +1,10 @@
 # TripExploration
 
-**Le contexte
+** Le contexte
 
 Cet ensemble de données est extrait de https://www.fordgobike.com/system-data et représente les trajets effectués par un service pour le mois de février 2019.
 
-**Contenu
+** Contenu
 
 Les données se composent d'informations sur les trajets effectués par les membres du service, leurs types, leur âge, leur sexe, les stations de départ et d'arrivée des trajets, la durée des trajets, etc.
 
