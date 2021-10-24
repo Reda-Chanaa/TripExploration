@@ -3,6 +3,7 @@
 ** Le contexte
 
 Cet ensemble de données est extrait de https://www.fordgobike.com/system-data et représente les trajets effectués par un service pour le mois de février 2019.
+Il comprend des informations sur les trajets individuels effectués dans un système de partage de vélos couvrant la grande région de la baie de San Francisco. L'ensemble de données a été stocké sous forme d'une dataframe spark, il comporte 16 colonnes et 183412 lignes
 
 ** Contenu
 
